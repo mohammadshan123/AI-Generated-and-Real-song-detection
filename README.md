@@ -48,8 +48,7 @@ The core of the project is an LSTM-based deep learning model built using TensorF
 ## 🚀 How to Run
 
 1. **Clone the repository**
-   git clone https://github.com/mohammadshan123/AI-Generated-and-Real-song-detection/blob/main/README.md
-   cd song-lyric-detector
+   git clone https://github.com/mohammadshan123/AI-Generated-and-Real-song-detection
    
 2.**Install dependencies**
   pip install -r requirements.txt
