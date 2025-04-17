@@ -48,7 +48,7 @@ The core of the project is an LSTM-based deep learning model built using TensorF
 ## 🚀 How to Run
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/song-lyric-detector.git
+   git clone https://github.com/Mohammad Shan. N. S/song-lyric-detector.git
    cd song-lyric-detector
    
 2.**Install dependencies**
