@@ -59,4 +59,4 @@ os.makedirs("model", exist_ok=True)
 model.save("model/lstm_model.h5")
 joblib.dump(tokenizer, "model/tokenizer.pkl")
 
-print("✅ Training complete. Model and tokenizer saved.")
+print(" Training complete. Model and tokenizer saved.")
