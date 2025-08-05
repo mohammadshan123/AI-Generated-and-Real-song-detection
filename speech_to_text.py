@@ -1,4 +1,4 @@
-import os
+import osfi
 import speech_recognition as sr
 from pydub import AudioSegment
 
@@ -24,3 +24,4 @@ def audio_to_text(audio_path):
         return "Could not understand the audio"
     except sr.RequestError:
         return "Speech Recognition service is unavailable"
+
